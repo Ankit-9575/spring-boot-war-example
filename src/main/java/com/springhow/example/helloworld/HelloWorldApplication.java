@@ -23,7 +23,7 @@ public class HelloWorldApplication extends SpringBootServletInitializer {
 
     @RequestMapping("/")
     String helloWorld() {
-        return "My Name is Khan and I am not a Terrorist. allahdulliah !!";
+        return "hi there!!";
     }
 
 }
